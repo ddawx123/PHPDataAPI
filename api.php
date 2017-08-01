@@ -9,7 +9,7 @@ require_once('./api_class.php');
 * 实际使用时可以通过向远程数据库或缓存拉取数据实时展现
 * 本接口支持数据以json和xml形式输出
 * 调用方法：api.php?format=xml ->使用XML输出 api.php?format=json -> 使用JSON输出
-* Powered By DingStudio.Club(Tech) Copyright 2017 All Right Reserved
+* Powered By DingStudio.Club(Tech) Copyright 2017 All Rights Reserved
 * 
 */
 $arr = array(
